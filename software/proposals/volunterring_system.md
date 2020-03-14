@@ -10,7 +10,12 @@
 
 ### 💥 Problem
 
-A general volunteer systes that helps people find opportunities to help others. Volunteers will be able to flag if they are comfortable working with sick people, and organizations can on-board volunteers quickly and easily.
+A general volunteer system that helps people find opportunities to help others, and organizations on board new volunteers quickly. 
+
+* There will be tasks created by users or organizations
+* A user can register and attempt to register for the tasks by filtering for locality or other characteristics
+
+Volunteers will be able to flag if they are comfortable working with sick people, and organizations can on-board volunteers quickly and easily.
 
 For example, there are capable people who are recovered and immune to the virus and were trained in anti-septic techniques.These people could volunteer at hospitals, performing menial but critical roles in assisting nurses.
 
